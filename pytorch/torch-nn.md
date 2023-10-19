@@ -35,4 +35,4 @@
 >
 > Flattens a contiguous range of dims into a tensor. For use with `Sequential`. See [`torch.flatten()`](https://pytorch.org/docs/stable/generated/torch.flatten.html#torch.flatten) for details.
 
-![image-20231019143504740](D:\2.git-repository\专业笔记\pytorch\assets\torch-nn.assets\image-20231019143504740-16976973087541.png)
+![image-20231019143504740](./assets/torch-nn.assets/image-20231019143504740-16976973087541.png)
